@@ -336,10 +336,11 @@ AWS Identity and Access Management (IAM)는 Amazon Web Services (AWS) 고객이 
 **57. ![image](https://user-images.githubusercontent.com/48195985/61836683-436fdd00-aebc-11e9-87dc-5f6f8cfa85ae.png)
 을 클릭해서 LAB을 종료합니다.**
 
+---------------------------------------------------------------------
 
-** [ 과제 다음 역할을 설정하고 테스트 합니다.] **
+**[ 과제 다음 역할을 설정하고 테스트 합니다.]**
 
-** [ 역할을 통한 권한 부여 실습 ] **
+**[ 역할을 통한 권한 부여 실습 ]**
 1. IAM 사용자를 생성한다 (권한을 EC2FullAccess 할당한다.)
 2. IAM 사용자로 로그인해서 EC2에 대한 권한과 다른(S3)에 대한 권한 없을을 확인한다.
 3. AWS 계정 루트로 로그인 한다.
